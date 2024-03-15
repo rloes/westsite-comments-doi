@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jquery" type="javaScript">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.js" />
+    </SOURCES>
+  </library>
+</component>
